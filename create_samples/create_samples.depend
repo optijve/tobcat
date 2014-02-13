@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1392047422 source:/home/steven/Documents/code_blocks/create_samples/createsamples.cpp
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	"cvhaartraining.h"
+
+1388164158 /home/steven/Documents/code_blocks/create_samples/cvhaartraining.h
+
+1388164158 source:/home/steven/Documents/code_blocks/create_samples/cvboost.cpp
+	"cvconfig.h"
+	<malloc.h>
+	<memory.h>
+	<omp.h>
+	<cstdio>
+	<cfloat>
+	<cmath>
+	<ctime>
+	<climits>
+	"_cvcommon.h"
+	"cvclassifier.h"
+	"omp.h"
+
+1392023058 /home/steven/Documents/code_blocks/create_samples/_cvcommon.h
+	"opencv2/core/core.hpp"
+	"opencv2/core/internal.hpp"
+	"opencv/cxcore.h"
+	"opencv/cv.h"
+	"opencv/cxmisc.h"
+
+1392023062 /home/steven/Documents/code_blocks/create_samples/cvclassifier.h
+	<cmath>
+	"opencv/cxcore.h"
+
+1388164158 source:/home/steven/Documents/code_blocks/create_samples/cvcommon.cpp
+	"_cvcommon.h"
+	<cstring>
+	<ctime>
+	<sys/stat.h>
+	<sys/types.h>
+	<direct.h>
+
+1388164158 source:/home/steven/Documents/code_blocks/create_samples/cvhaarclassifier.cpp
+	"_cvhaartraining.h"
+
+1388164158 /home/steven/Documents/code_blocks/create_samples/_cvhaartraining.h
+	"_cvcommon.h"
+	"cvclassifier.h"
+	<cstring>
+	<cstdio>
+
+1392023075 source:/home/steven/Documents/code_blocks/create_samples/cvhaartraining.cpp
+	"cvhaartraining.h"
+	"_cvhaartraining.h"
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<climits>
+	<ctype.h>
+	"opencv/highgui.h"
+	<ctime>
+
+1392023082 source:/home/steven/Documents/code_blocks/create_samples/cvsamples.cpp
+	"cvhaartraining.h"
+	"_cvhaartraining.h"
+	"opencv/cv.h"
+	"opencv/highgui.h"
+
+1388164158 source:/home/steven/Documents/code_blocks/create_samples/haartraining.cpp
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	"cvhaartraining.h"
+

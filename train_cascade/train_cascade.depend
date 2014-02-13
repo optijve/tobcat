@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1388164158 source:/home/steven/Documents/code_blocks/train_cascade/HOGfeatures.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/core/internal.hpp"
+	"HOGfeatures.h"
+	"cascadeclassifier.h"
+
+1388164158 /home/steven/Documents/code_blocks/train_cascade/HOGfeatures.h
+	"traincascade_features.h"
+
+1392026695 /home/steven/Documents/code_blocks/train_cascade/traincascade_features.h
+	"imagestorage.h"
+	"opencv/cxcore.h"
+	"opencv/cv.h"
+	"opencv/ml.h"
+	<stdio.h>
+
+1392026680 /home/steven/Documents/code_blocks/train_cascade/imagestorage.h
+	"opencv/highgui.h"
+
+1392026712 /home/steven/Documents/code_blocks/train_cascade/cascadeclassifier.h
+	<ctime>
+	"traincascade_features.h"
+	"haarfeatures.h"
+	"lbpfeatures.h"
+	"HOGfeatures.h"
+	"boost.h"
+	"opencv/cv.h"
+	"opencv/cxcore.h"
+
+1388164158 /home/steven/Documents/code_blocks/train_cascade/haarfeatures.h
+	"traincascade_features.h"
+
+1388164158 /home/steven/Documents/code_blocks/train_cascade/lbpfeatures.h
+	"traincascade_features.h"
+
+1392026701 /home/steven/Documents/code_blocks/train_cascade/boost.h
+	"traincascade_features.h"
+	"opencv/ml.h"
+
+1392026720 source:/home/steven/Documents/code_blocks/train_cascade/boost.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/core/internal.hpp"
+	"boost.h"
+	"cascadeclassifier.h"
+	<queue>
+	"opencv/cxmisc.h"
+
+1388164158 source:/home/steven/Documents/code_blocks/train_cascade/cascadeclassifier.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/core/internal.hpp"
+	"cascadeclassifier.h"
+	<queue>
+
+1388164158 source:/home/steven/Documents/code_blocks/train_cascade/features.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/core/internal.hpp"
+	"traincascade_features.h"
+	"cascadeclassifier.h"
+
+1388164158 source:/home/steven/Documents/code_blocks/train_cascade/haarfeatures.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/core/internal.hpp"
+	"haarfeatures.h"
+	"cascadeclassifier.h"
+
+1392026730 source:/home/steven/Documents/code_blocks/train_cascade/imagestorage.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/core/internal.hpp"
+	"opencv/cv.h"
+	"imagestorage.h"
+	<stdio.h>
+	<iostream>
+	<fstream>
+
+1388164158 source:/home/steven/Documents/code_blocks/train_cascade/lbpfeatures.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/core/internal.hpp"
+	"lbpfeatures.h"
+	"cascadeclassifier.h"
+
+1392027710 source:/home/steven/Documents/code_blocks/train_cascade/traincascade.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/core/internal.hpp"
+	"opencv/cv.h"
+	"cascadeclassifier.h"
+

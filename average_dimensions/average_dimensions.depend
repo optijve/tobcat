@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1392029452 source:/home/steven/Documents/code_blocks/average_dimensions/main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<vector>
+	<stdlib.h>
+

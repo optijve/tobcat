@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1392288585 source:/home/steven/Documents/code_blocks/cascade_detect_simple/main.cpp
+	<fstream>
+	<iostream>
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+

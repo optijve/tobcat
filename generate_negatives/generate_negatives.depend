@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1392029879 source:/home/steven/Documents/code_blocks/generate_negatives/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+	<stdio.h>
+	<sstream>
+	<fstream>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1392126305 source:/home/steven/Documents/code_blocks/detection_manta/main.cpp
+	"PvApi.h"
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	<string.h>
+	<iostream>
+	<time.h>
+
+1392051687 /home/steven/Documents/code_blocks/detection_manta/PvApi.h
+

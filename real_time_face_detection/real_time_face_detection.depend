@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1391515990 source:/home/steven/Documents/code_blocks/real_time_face_detection/main.cpp
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	<iostream>
+

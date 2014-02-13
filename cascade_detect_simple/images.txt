@@ -1,0 +1,4 @@
+/home/steven/Documents/code_blocks/cascade_detect_simple/images/faces.jpg
+/home/steven/Documents/code_blocks/cascade_detect_simple/images/faces4.jpg
+/home/steven/Documents/code_blocks/cascade_detect_simple/images/faces2.jpg
+/home/steven/Documents/code_blocks/cascade_detect_simple/images/faces3.jpg

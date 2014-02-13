@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392021822 source:/home/steven/Documents/code_blocks/folder_listing/main.cpp
+	<stdlib.h>
+	<sstream>
+	<iostream>
+
