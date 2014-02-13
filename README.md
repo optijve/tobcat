@@ -1,5 +1,5 @@
 TOBCAT - Industrial applications of object categorization techniques
-=============================================================================
+--------------------------------------------------------------------
 This repository contains all software linked to the IWT TETRA project TOBCAT.
 More information on the project can be found at http://www.eavise.be/tobcat/.
 
@@ -7,7 +7,8 @@ If you have any questions regarding this repository, please send me
 a mail at steven.puttemans[at]kuleuven.be
 
 For all software, the following license regulations apply.
-=============================================================================
+
+******************************************************************************
 Copyright (c) 2013 EAVISE, KU Leuven, Campus De Nayer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -30,4 +31,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-=============================================================================
+******************************************************************************
