@@ -1,0 +1,10 @@
+annotation details
+width 115 (114)	-->  width 57
+height 44 	-->  height 22
+
+./train_cascade -data cascade/ -vec datavector.vec -bg negatives.txt -numPos 65 -numNeg 150 -numStages 18 -w 57 -h 22 -featureType LBP
+
+./cascade_detect_simple cascade/cascade.xml test.txt detections.txt 25
+- 25 threshold enkel objecten
+- 0 threshold is alle detecties
+- 3 threshold is detecties en vals positieve detecties

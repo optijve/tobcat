@@ -1,0 +1,1 @@
+/home/tobcat/workshop/data/mini_model/negatives/neg.png

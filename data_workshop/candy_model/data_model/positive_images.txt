@@ -1,0 +1,4 @@
+/home/tobcat/workshop/data/candy_model/positives/pos_3.png
+/home/tobcat/workshop/data/candy_model/positives/pos_4.png
+/home/tobcat/workshop/data/candy_model/positives/pos_2.png
+/home/tobcat/workshop/data/candy_model/positives/pos_1.png

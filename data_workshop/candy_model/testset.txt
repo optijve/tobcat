@@ -1,0 +1,5 @@
+/home/tobcat/workshop/data/candy_model/test/capture_2.png
+/home/tobcat/workshop/data/candy_model/test/capture_4.png
+/home/tobcat/workshop/data/candy_model/test/capture_1.png
+/home/tobcat/workshop/data/candy_model/test/capture_0.png
+/home/tobcat/workshop/data/candy_model/test/capture_3.png
