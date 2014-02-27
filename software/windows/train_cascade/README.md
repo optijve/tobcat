@@ -1,0 +1,1 @@
+De traincascade functionaliteit neemt een input data vector van de create samples functionaliteit en de bijgeleverde annotatieinformatie en zal op basis daarvan een objectmodel opbouwen. Dit gebeurt door intern het AdaBoost principe toe te passen. Opnieuw is hier vertrokken van de standaard OpenCV tool, maar werden enkele bugs weggewerkt en is meer output informatie voorzien.

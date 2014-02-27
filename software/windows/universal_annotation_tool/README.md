@@ -1,0 +1,1 @@
+Deze universele annotatietool laat toe om beeldsequenties en videostreams in te lezen en op een duidelijke en universele manier te annoteren. Software komt als een installer, onder Windows 7 x64, waarbij men geen OpenCV hoeft te installeren om de software te runnen.

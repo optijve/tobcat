@@ -1,0 +1,7 @@
+This software is a C/C++ reimplementation of the Deformable Part Models code released by P. Felzenszwalb:
+Felzenszwalb, P. F. and Girshick, R. B. and McAllester, D., "Discriminatively Trained Deformable Part Models, Release 4" (http://people.cs.uchicago.edu/~pff/latent-release4/)
+
+This software is compiled on an X86_64 platform running Ubuntu Linux 11.04. 
+We made use of: 
+- OpenCV 2.4.3
+- g++ 4.6.3

@@ -1,0 +1,30 @@
+#Configuration file for DPM pedestrian detector
+
+#detection threshold
+threshold = "0.0";
+
+#Non Maximum Supression
+nms = "0.1";
+
+#directory where the files are
+inputDirectory = "/Datasets/People/PETS/Original"; 
+
+#When processing a directory, this is the extention for the files to be searched for
+extension = ".jpg";
+
+#file of the output file
+outputName = "output.txt"; 
+
+#Do single
+single = "false";
+
+#used when only a single image will be processed
+image = "/home/fds/Desktop/DataSet/TestImages/ped.jpg"; 
+
+#Show the detections
+showdetection = "true";
+
+
+#write the detections
+writedetection = "true";
+
